@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-[Demo](https://react-match-game.netlify.com/)
+
+## [Demo](https://react-match-game.netlify.com/)
 
 ## Available Scripts
 
